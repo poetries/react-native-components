@@ -1,4 +1,4 @@
-# react-native-components.md
+# react-native-components
 > react-native常用组件
 
 UI库
