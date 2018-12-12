@@ -140,3 +140,8 @@ loader
 - [NativeBase 封装不错的小组件](https://github.com/GeekyAnts/NativeBase)
 - [星星 react-native-star-rating](https://github.com/djchie/react-native-star-rating)
 
+综合
+---
+
+- [awesome-react-native](https://github.com/jondot/awesome-react-native)
+
