@@ -137,11 +137,11 @@ loader
 - [react-native-gesture-password 手势解锁，支持iOS和Android 🔥](https://github.com/spikef/react-native-gesture-password)
 - [react-native-gifted-messenger 方便的实现聊天UI 🔥🔥🔥🔥](https://github.com/FaridSafi/react-native-gifted-chat)
 - [react-native-color-picker iOS/Android通用的颜色选择器 🔥](https://github.com/instea/react-native-color-picker)
-- [NativeBase 封装不错的小组件](https://github.com/GeekyAnts/NativeBase)
-- [星星 react-native-star-rating](https://github.com/djchie/react-native-star-rating)
+- [NativeBase 封装不错的小组件 🔥](https://github.com/GeekyAnts/NativeBase)
+- [星星 react-native-star-rating 🔥🔥](https://github.com/djchie/react-native-star-rating)
 
 综合
 ---
 
-- [awesome-react-native](https://github.com/jondot/awesome-react-native)
+- [awesome-react-native 🔥🔥🔥🔥🔥](https://github.com/jondot/awesome-react-native)
 
