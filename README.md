@@ -57,7 +57,7 @@ UI库
 - [react-native-lightbox 图片全屏预览 🔥🔥🔥](https://github.com/oblador/react-native-lightbox)
 - [react-native-looped-carousel 视图轮播 🔥🔥](https://github.com/phil-r/react-native-looped-carousel)
 - [react-native-parallax parallax效果 🔥](https://github.com/oblador/react-native-parallax)
-- [react-native-parallax-scroll-view 视差滚动效果的ScrollView，支持固定header🔥🔥🔥](https://www.jianshu.com/p/c7a8f115dca0)
+- [react-native-parallax-scroll-view 视差滚动效果的ScrollView，支持固定header🔥🔥🔥](https://github.com/i6mi6/react-native-parallax-scroll-view)
 - [react-native-swiper 视图轮播，上下/左右滑动组件,类似UICollectionView 🔥🔥🔥🔥](https://github.com/leecade/react-native-swiper)
 - [react-native-viewpager 视图轮播，支持循环滚动，自定义视图。已做性能优化 🔥🔥🔥](https://github.com/race604/react-native-viewpager)
 - [react-native-fast-image 高性能的图片组件](https://github.com/DylanVann/react-native-fast-image)
